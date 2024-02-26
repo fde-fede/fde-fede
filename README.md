@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fde-fede&label=Profile%20views&color=0e75b6&style=flat" alt="fde-fede" /> </p>
 
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldx5fgmg00060fl7ypfhg7pq/stats?cursusId=21&coalitionId=276" alt="fde-fede's 42 stats" /></a>
-
 - 🔭 I’m currently working on [42 School at Malaga, and cybersecurity bootcamp](https://github.com/fde-fede/Student-42)
 
 - 📚 I’m currently learning [Cybersecurity](https://github.com/fde-fede/Bootcamp_Cybersecurity)
